@@ -1,1 +1,4 @@
-# Fitness-Freak
+# React Fitness Application
+
+![React Fitness Application]
+
